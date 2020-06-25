@@ -1,0 +1,26 @@
+Penn State;12
+Notre Dame;12
+Harvard;12
+Columbia;12
+Yale;10
+St. John's University;10
+Duke;10
+Ohio State;10
+Pennsylvania;7
+Stanford;6
+Princeton;6
+UC San Diego;5
+Northwestern;5
+New York University;4
+Temple;3
+North Carolina;3
+Incarnate Word;3
+Cornell;3
+Air Force;3
+Wayne State;2
+Stevens Institute of Technology;1
+New Jersey Institute of Technology;1
+Fairleigh Dickinson;1
+Detroit Mercy;1
+Brown;1
+Boston College;1

@@ -1,0 +1,73 @@
+Air Force;USAF
+Barnard;COLU
+Boston College;BC
+Brown University;BROW
+Brown;BROW
+Columbia/Barnard;COLU
+Columbia;COLU
+Cornell University;CORN
+Cornell;CORN
+Detroit Mercy, University of;UDM
+Detroit Mercy;UDM
+Duke University;DUKE
+Duke;DUKE
+Fairleigh Dcknsn;FDU
+Fairleigh Dickinson;FDU
+Harvard University;HARV
+Harvard;HARV
+Incarnate Word;UIW
+Incarnate Word, University of the;UIW
+John's Hopkins University;JHU
+John's Hopkins;JHU
+Johns Hopkins University;JHU
+Johns Hopkins;JHU
+Lawrence University;LAWR
+Lawrence;LAWR
+M.I.T.;MIT
+Massachusets Institute of Technology;MIT
+N.J. Institute of Technology;NJIT
+N.J.I.T.;NJIT
+N.Y.U.;NYU
+NJ Institute of Technology;NJIT
+New Jersey Institute of Technology;NJIT
+New York University;NYU
+North Carolina;UNC
+Northwestern University;NW
+Northwestern;NW
+Notre Dame;ND
+Ohio State University;OSU
+Ohio State;OSU
+Penn State;PSU
+Pennsylvania State University;PSU
+Pennsylvania, University of;PENN
+Pennsylvania;PENN
+Princeton University;PRIN
+Princeton;PRIN
+Sacred Heart University;SACR
+Sacred Heart;SACR
+St. John's University;STJ
+St. John's (New York);STJ
+St. John's;STJ
+Stanford University;STAN
+Stanford;STAN
+Stevens;STEV
+Steven's;STEV
+Stevens Tech;STEV
+Stevens Institute of Technology;STEV
+Steven's Institute of Technology;STEV
+Temple University;TEMP
+Temple;TEMP
+UC San Diego;UCSD
+U.C. San Diego;UCSD
+U.I.W.;UIW
+U.S. Air Force Academy;USAF
+UNC, Chapel Hill;UNC
+University of Detroit Mercy;UDM
+University of Pennsylvania;PENN
+University of the Incarnate Word;UIW
+Vassar College;VASS
+Vassar;VASS
+Wayne State University;WAYN
+Wayne State;WAYN
+Yale University;YALE
+Yale;YALE
