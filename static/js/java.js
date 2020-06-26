@@ -20,14 +20,14 @@ function hideAllDropdowns(event) {
     */
    
     if (!event.target.matches('.dropbtn')) {
-    weapon = document.getElementById("weapon")
-    linksnav = document.getElementById("linksnav")
-    medianav = document.getElementById("medianav") 
+        weapon = document.getElementById("weapon")
+        linksnav = document.getElementById("linksnav")
+        medianav = document.getElementById("medianav") 
 
 
-    hideDropdown(weapon);
-    hideDropdown(linksnav);
-    hideDropdown(medianav);
+        hideDropdown(weapon);
+        hideDropdown(linksnav);
+        hideDropdown(medianav);
     
     }
     
