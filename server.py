@@ -7,6 +7,12 @@ app = Flask(__name__)
 default = "Default"
 
 @app.route('/')
+def resume():
+    colors = ['3265AF', '2D385B']
+    # Import list of Andrew quips
+    return render_template("resume.html", color=colors)
+
+@app.route('/about')
 def about():
     colors = ['3265AF', '2D385B']
     # Import list of Andrew quips
