@@ -368,6 +368,15 @@ h5{
     filter: brightness(150%);
 }
 
+span {
+    width:50%;
+}
+
+iframe {
+    width:560px;
+    height:315px;
+}
+
 @media only screen and (max-width: 600px) {
     .table th, .table td{
         font-size:0.7rem;
