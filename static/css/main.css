@@ -1,13 +1,16 @@
 @font-face {
-    font-family: ncaa-illinois;
-    src:
-         url("/static/fonts/NCAA\ Illinois\ Fighting\ Illini.otf") format("opentype")
+    font-family: blackjack;
+    src: url("/static/fonts/blackjack.otf") format("opentype")
 }
 
 @font-face {
-    font-family: ncaa-illinois;
-    font-weight: bold;
-    src: url("/static/fonts/NCAA_Illinois_Fighting\ IlliniBold.otf") format("opentype");
+    font-family: milkshake;
+    src: url("/static/fonts/Milkshake.otf") format("opentype")
+}
+
+@font-face {
+    font-family: littledays;
+    src: url("/static/fonts/littledays.ttf") format("truetype")
 }
 
 body {
@@ -19,8 +22,14 @@ body {
     top:45px;
 }
 
-p{
+p {
     margin-top:1rem;
+}
+
+a {
+    font-family: milkshake;
+    /*font-weight: bold;*/
+    font-size: 2em;
 }
 
 .schedule td, .schedule th{
@@ -28,7 +37,8 @@ p{
 }
 
 .ncaa-banner{
-    font-family: ncaa-illinois, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    font-family: 'Pacifico', cursive;
+    /*font-family: ncaa-illinois, "Helvetica Neue", Helvetica, Arial, sans-serif; */
     font-weight: bold;
     font-style: italic;
     font-size:3em;
