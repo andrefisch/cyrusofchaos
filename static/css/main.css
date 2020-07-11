@@ -23,6 +23,8 @@ body {
 }
 
 p {
+    font-family: "arial";
+    font-size:1.5em;
     margin-top:1rem;
 }
 
@@ -37,7 +39,8 @@ a {
 }
 
 .ncaa-banner{
-    font-family: 'Pacifico', cursive;
+    font-family: 'cambria';
+    /*font-family: 'Pacifico', cursive;*/
     /*font-family: ncaa-illinois, "Helvetica Neue", Helvetica, Arial, sans-serif; */
     font-weight: bold;
     font-style: italic;
