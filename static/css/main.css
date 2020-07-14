@@ -22,13 +22,13 @@ body {
     top:45px;
 }
 
-p {
+.viddescription {
     font-family: "arial";
-    font-size:1.5em;
+    font-size:1em;
     margin-top:1rem;
 }
 
-a {
+.vidlink {
     font-family: milkshake;
     /*font-weight: bold;*/
     font-size: 2em;
