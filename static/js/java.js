@@ -20,13 +20,11 @@ function hideAllDropdowns(event) {
     */
    
     if (!event.target.matches('.dropbtn')) {
-        weapon = document.getElementById("weapon")
-        linksnav = document.getElementById("linksnav")
+        //linksnav = document.getElementById("linksnav")
         medianav = document.getElementById("medianav") 
 
 
-        hideDropdown(weapon);
-        hideDropdown(linksnav);
+        //hideDropdown(linksnav);
         hideDropdown(medianav);
     
     }
@@ -45,26 +43,11 @@ function hideAllDropdowns(event) {
   
   }
   
-  function displayWeapon() {
-  
-    weapon = document.getElementById("weapon")
-    linksnav = document.getElementById("linksnav")
-    medianav = document.getElementById("medianav")
-
-    hideDropdown(linksnav);
-    hideDropdown(medianav);
-
-    weapon.getElementsByTagName('div')[0].classList.toggle("show");
-    document.activeElement.blur()
-  }
-  
   function displayLinksnav() {
   
-    weapon = document.getElementById("weapon")
     linksnav = document.getElementById("linksnav")
     medianav = document.getElementById("medianav")
 
-    hideDropdown(weapon);
     hideDropdown(medianav);
     
     linksnav.getElementsByTagName('div')[0].classList.toggle("show");
@@ -74,12 +57,10 @@ function hideAllDropdowns(event) {
   
   function displayMedianav() {
   
-    weapon = document.getElementById("weapon")
-    linksnav = document.getElementById("linksnav")
+    //linksnav = document.getElementById("linksnav")
     medianav = document.getElementById("medianav")
 
-    hideDropdown(weapon);
-    hideDropdown(linksnav);
+    //hideDropdown(linksnav);
   
     medianav.getElementsByTagName('div')[0].classList.toggle("show");
     document.activeElement.blur()
