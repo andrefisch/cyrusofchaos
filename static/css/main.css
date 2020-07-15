@@ -44,7 +44,7 @@ body {
     /*font-family: ncaa-illinois, "Helvetica Neue", Helvetica, Arial, sans-serif; */
     font-weight: bold;
     font-style: italic;
-    font-size:3em;
+    font-size: 3em;
 }
 
 .year_banner{
@@ -71,7 +71,7 @@ body {
  */
 .center {
     margin: auto;
-    width: 65%;
+    width: 75%;
     border-style: none;
     /*border-color: #C89600;*/
     padding: 10px;
@@ -386,8 +386,8 @@ span {
 }
 
 iframe {
-    width:560px;
-    height:315px;
+    width:750px;
+    height:422px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -417,10 +417,6 @@ iframe {
 
     h5{
         font-size:2em;
-    }
-
-    .ncaa-banner{
-        font-size:1.2em;
     }
 
     .dropdown:hover .dropbtn {
