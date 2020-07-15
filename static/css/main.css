@@ -423,4 +423,9 @@ iframe {
         filter: brightness(100%);
     }
 
+    iframe {
+        width:375px;
+        height:211px;
+    }
+
   }
