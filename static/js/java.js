@@ -20,11 +20,11 @@ function hideAllDropdowns(event) {
     */
    
     if (!event.target.matches('.dropbtn')) {
-        //linksnav = document.getElementById("linksnav")
+        linksnav = document.getElementById("linksnav")
         medianav = document.getElementById("medianav") 
 
 
-        //hideDropdown(linksnav);
+        hideDropdown(linksnav);
         hideDropdown(medianav);
     
     }
@@ -57,10 +57,10 @@ function hideAllDropdowns(event) {
   
   function displayMedianav() {
   
-    //linksnav = document.getElementById("linksnav")
+    linksnav = document.getElementById("linksnav")
     medianav = document.getElementById("medianav")
 
-    //hideDropdown(linksnav);
+    hideDropdown(linksnav);
   
     medianav.getElementsByTagName('div')[0].classList.toggle("show");
     document.activeElement.blur()

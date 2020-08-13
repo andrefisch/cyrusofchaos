@@ -12,6 +12,12 @@ def resume():
     # Import list of Andrew quips
     return render_template("resume.html", color=colors)
 
+@app.route('/photos')
+def photos():
+    colors = ['3265AF', '2D385B']
+    # Import list of Andrew quips
+    return render_template("photos.html", color=colors)
+
 @app.route('/about')
 def about():
     colors = ['3265AF', '2D385B']
