@@ -434,5 +434,12 @@ img {
         width:375px;
         height:211px;
     }
+    video {
+        width:375px;
+    }
+
+    img {
+        width:375px;
+    }
 
   }
